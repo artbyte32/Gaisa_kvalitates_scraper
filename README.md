@@ -6,6 +6,8 @@ Python skripts, kas lejupielādē datus par gaisa kvalitāti Rīgā no http://gm
 - Instalētas nepieciešamās Python bibliotēkas:
 
   ```bash
+  git clone https://github.com/ArtisRu/Gaisa_kvalitates_scraper.git
+  cd Gaisa_kvalitates_scraper/
   pip install -r requirements.txt
   ```
 
