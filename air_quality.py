@@ -6,7 +6,7 @@ from datetime import datetime
 import os
 import sys
 
-url = "http://gmsd.riga.lv/main.php"
+url = "https://gmsd24.riga.lv/main.php"
 
 
 def extract_script_data(script):
