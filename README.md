@@ -1,5 +1,5 @@
 # Gaisa_kvalitates_scraper
-Python skripts, kas lejupielādē datus par gaisa kvalitāti Rīgā no http://gmsd.riga.lv/main.php. Dati NETIEK ņemti no pirmavota, un tiek pieņemts, ka mājaslapas `main.php` fails tiks regulāri atjaunināts ar aktuālo informāciju. Gaisa kvalitātes dati tiek saglabāti `.json` failā. Papildus pieejams shell skripts, kas uzstādīs crontab uzdevumu periodiskai datu skreipošanai katru dienu.
+Python skripts, kas lejupielādē datus par gaisa kvalitāti Rīgā no http://gmsd24.riga.lv/main.php. Dati NETIEK ņemti no pirmavota, un tiek pieņemts, ka mājaslapas `main.php` fails tiks regulāri atjaunināts ar aktuālo informāciju. Gaisa kvalitātes dati tiek saglabāti `.json` failā. Papildus pieejams shell skripts, kas uzstādīs crontab uzdevumu periodiskai datu skreipošanai katru dienu.
 
 ### Prasības
 - Python 3.x
